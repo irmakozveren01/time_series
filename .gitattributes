@@ -1,3 +1,4 @@
-*.html linguist-documentation
-*.pdf linguist-documentation
-*.csv linguist-vendored
+report/*.html linguist-generated=true
+report/*.htm linguist-generated=true
+*.csv linguist-vendored=true
+*.pdf linguist-documentation=true
